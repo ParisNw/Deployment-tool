@@ -4,7 +4,7 @@ This tool is used to quickly setup AD attributes for multiple machines at the sa
 
 ## Installation
 
-* At least .Net 3.5
+* At least .NET 3.5
 
 * Powershell, which is installed by default on all Win 7 (SP1) or later machines.
 
